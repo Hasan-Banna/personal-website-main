@@ -1,0 +1,55 @@
+h1{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 60px;
+}
+h2{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 40px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(30deg, lightsalmon, tomato);
+    padding: 10px 30px;
+    border-radius: 6px;
+    color: white;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 90%;
+}
+.red-highlight{
+    color: #FF8367;
+}
+section{
+    height: 500px;
+    padding-bottom: 50px;
+}
+.lastet-work{
+    text-align: center;
+}
+#projects-area img{
+    width: 100%;
+    
+}
+.img-container{
+    width: 26%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+}
+.p-title{
+    color: #363958;
+}
+.paragraph{
+    color: #6C6C6C;
+}
