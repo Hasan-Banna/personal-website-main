@@ -14,7 +14,7 @@ body{
 .link-button{
     text-decoration: none;
     background-image: linear-gradient(30deg, lightsalmon, tomato);
-    padding: 10px 30px;
+    padding: 20px 30px;
     border-radius: 6px;
     color: white;
 }
@@ -50,6 +50,46 @@ section{
 .p-title{
     color: #363958;
 }
-.paragraph{
-    color: #6C6C6C;
+.work-content img{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.end-part{
+    position: relative;
+    text-align: center;
+    
+}
+.work-inq{
+    position: absolute;
+    top: 10px;
+    left: 300px;
+    color: white;
+}
+.chat{
+    position: absolute;
+    top: 70px;
+    right: 300px;
+}
+.end-part h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+    margin-top: 60px;
+    color: #696871;
+    left: 45%;
+}
+.mail{
+    text-decoration: none;
+    color: #363958;
+    font-size: 35px;
+}
+.footer-img img{
+    width: 35px;
+    float: left;
+    padding-left: 2%;
+}
+#social-icon{
+    margin-left: 45%;
+    margin-top: 2%;
 }
